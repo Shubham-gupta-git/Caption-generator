@@ -1,0 +1,84 @@
+Nvidia shares down again once again this
+morning sliding about 5% for the week so
+far joining us right now to talk the
+chip stocks is Vivic Arya Bank of
+America's senior semiconductor analyst
+Vivic first of all what do you think
+about the slide in Nvidia chips this
+week uh good morning Becky so you know
+last week we came from a very successful
+GPU technology conference the company
+had uh they outlined a path towards a
+trillion dollars of spending in the data
+center uh they uh really stressed how
+the Computing requirements of these new
+reasoning models is going up by a factor
+of 10 to 100 times and then they
+outlined a very multi-generational road
+map that goes out all the way till 2028
+and spans across their uh unmatched
+expertise in hardware and software and
+systems so I think fundamentals are rock
+solid uh for the company but what's also
+happening is uh there's a lot of
+geopolitical worries there's a lot of
+angst uh regarding restrictions of their
+products uh to China there is this new
+AI Fusion uh rule that is supposed to go
+into effect it was put in place by the
+Biden team and if it is implemented and
+I think if is if is an operative word
+then uh we could see the effects of this
+by May 14th when it is fully implemented
+so I think the stock is essentially
+trying to go back and forth between uh
+fundamentals that are exceptionally
+strong and a range of these geopolitical
+worries which we think uh you know will
+get priced in uh the stock by May 14th
+and meanwhile the valuation we think is
+is quite uh compelling so and so we do
+believe very strongly that the
+fundamentals will will win the day but
+over the next few weeks we have to deal
+with some of this geopolitical
+volatility in the stock sales to China
+is that 10% of their
+revenue yeah their overall sales are
+about 13% uh but you know about a
+quarter of that is going into gaming
+it's going into Automotive into
+workstation uh those parts are not
+restricted so we size that uh the part
+that is in the data center that is
+exposed to China is about 10% of the
+sales and even in that there are parts
+of the networking business that are not
+restricted so when we get down to it um
+you know the 8 or 10% that is exposed to
+China it's specifically their H20
+product and what's interesting Becky is
+that even under the AI diffusion rules
+there are no restrictions uh in terms of
+them shipping this H20 uh product to
+China this is an older generation
+product you know there is competition
+for that in China from uh Huawei so it's
+a competitive market because it's an
+older generation uh product so I don't
+think it's a given that all their sales
+to China will be restricted but when we
+go through the sensitivity analysis even
+if we take the China sales out even if
+they bake in uh the effect of these AI
+diffusion rules we still see that the
+stock is trading anywhere between 20 to
+26 times less than its earnings growth
+versus if you look at the max 7 uh
+stocks they are trading two times their
+earnings growth so we think it's
+compellingly valued regardless but we
+understand that some of this um you know
+uh news driven headline you know that
+these heads have to get over before the
+stock starts to civilized
