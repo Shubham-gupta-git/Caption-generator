@@ -12,6 +12,15 @@ cd path/to/project
 $  source  ./bin/activate
 ```
 ---
+### Installing dependencies
+
+run the following command to install all dependencies for project
+
+```
+pip install -r requirements.txt
+```
+
+---
 ## Running the py script:
 
 Run the main.py and main{n}.py to check result (may require tweak for input file):
